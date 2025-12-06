@@ -14,7 +14,12 @@ photos of code running down below
 
 <img width="1498" height="746" alt="" src="https://github.com/user-attachments/assets/73a71e63-a3f5-4b11-8ee6-87c380cd50f1" />
 <img width="1471" height="709" alt="" src="https://github.com/user-attachments/assets/96ee3958-a7ac-4d2b-8c28-4ec7e514063c" />
-<img width="1487" height="719" alt="Screenshot 2025-12-06 at 3 27 46 PM" src="https://github.com/user-attachments/assets/4f691c5f-81b2-4769-acdd-dcfb1ca15dd3" />
+<img width="1487" height="719" alt="" src="https://github.com/user-attachments/assets/4f691c5f-81b2-4769-acdd-dcfb1ca15dd3" />
+<img width="1471" height="699" alt="" src="https://github.com/user-attachments/assets/f48d5284-2734-4d1e-afd7-08e09ba1082e" />
+<img width="1486" height="740" alt="" src="https://github.com/user-attachments/assets/fa163bce-dc31-4c10-8bbd-95530016f78d" />
+<img width="1484" height="751" alt="" src="https://github.com/user-attachments/assets/0807eed5-be3c-4a42-8944-bf4e1af947b7" />
+<img width="1474" height="734" alt="" src="https://github.com/user-attachments/assets/a6528ef4-cc16-406d-ba4d-dec70bfbdfa1" />
+<img width="1474" height="756" alt="" src="https://github.com/user-attachments/assets/66d184d5-e43b-4ebc-98b4-0d216f8905be" />
 
 
 
