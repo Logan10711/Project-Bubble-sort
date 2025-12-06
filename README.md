@@ -1,13 +1,3 @@
----
-title: Project Bubble Sort
-emoji: 🏢
-colorFrom: blue
-colorTo: gray
-sdk: gradio
-sdk_version: 6.0.2
-app_file: app.py
-pinned: false
----
 Demo
 
 photos of code running down below
@@ -25,7 +15,11 @@ photos of code running down below
 
 Problem Breakdown and Computational Thinking
 
-Bubble sort is a simple comparison-based algorithm. It looks at pairs of numbers, swaps them if they’re out of order, and keeps looping until everything is sorted. It’s not the fastest algorithm, but it’s easy to trace and great for learning how sorting works.
+Why I chose Bubble Sort
+
+Bubble sort is one of the easiest sorting algorithimns to visualize and explain to someone who may not even be familiar any coding
+whatsoever. So I wanted to choose something that would be useful tool to further the knowledge of someone already familiar with the sorting 
+algorithim aswell as be able to still explain the basics to someone totally new to it.
 
 How the thinking breaks down:
 
@@ -39,7 +33,9 @@ Algorithm Design: Loop through the list, check neighbors, swap if needed, and st
 
 Steps to Run
 
-first, input a list of numbers seperated by commas next click "visualize sort" if you inputed incorrectly, it will wait until the input fits the criteria and output a message saying to fix it if you inputed correctly, it will output a visualization of what bubble sort looks like and each step in sorting the array
+first, input a list of numbers seperated by commas 
+next click "visualize sort" if you inputed incorrectly, it will wait until the input fits the criteria and output a message saying to fix it 
+if you inputed correctly, it will output a visualization of what bubble sort looks like and each step in sorting the array
 
 Hugging Face Space
 
