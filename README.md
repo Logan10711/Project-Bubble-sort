@@ -12,7 +12,8 @@ Demo
 
 photos of code running down below
 
-<img width="1498" height="746" alt="Screenshot 2025-12-06 at 3 27 34 PM" src="https://github.com/user-attachments/assets/73a71e63-a3f5-4b11-8ee6-87c380cd50f1" />
+<img width="1498" height="746" alt="" src="https://github.com/user-attachments/assets/73a71e63-a3f5-4b11-8ee6-87c380cd50f1" />
+<img width="1471" height="709" alt="" src="https://github.com/user-attachments/assets/96ee3958-a7ac-4d2b-8c28-4ec7e514063c" />
 
 
 Problem Breakdown and Computational Thinking
