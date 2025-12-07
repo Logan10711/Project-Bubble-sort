@@ -47,4 +47,4 @@ I tested the program with a mix of normal inputs and edge cases. It only accepts
 
 Author and Acknowledgment
 
-Made by Logan Walter. ChatGPT (level 4) helped me figure out how to set up Gradio for the Space and walked me through adding things like matplotlib.pyplot as plt for the plots and Pillow for handling image processing behind the scenes. All code was written by me and ChatGPT just walked me through how to implement and improve the visuals of my code.
+ChatGPT (level 4) helped me figure out how to set up Gradio for the Space and walked me through adding things like matplotlib.pyplot as plt for the plots and Pillow for handling image processing behind the scenes. All code was written by me and ChatGPT just walked me through how to implement and improve the visuals of my code.
