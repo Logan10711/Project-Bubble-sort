@@ -44,6 +44,7 @@ You can use the app directly here: https://huggingface.co/spaces/Logan1107/Proje
 Testing and Verifying
 
 I tested the program with a mix of normal inputs and edge cases. It only accepts inputs that match the format I set, so anything outside that gets blocked right away. If you try to leave something empty, it throws an error instead of running. Negative numbers gave wrong results at first and really large inputs slowed things down, but I fixed that by adding proper checks and cleaning up how the program handles mistakes. I saved a few example runs to show the errors I got and how everything works now after the fixes.
+
 Author and Acknowledgment
 
 Made by Logan Walter. ChatGPT (level 4) helped me figure out how to set up Gradio for the Space and walked me through adding things like matplotlib.pyplot as plt for the plots and Pillow for handling image processing behind the scenes. All code was written by me and ChatGPT just walked me through how to implement and improve the visuals of my code.
