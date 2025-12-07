@@ -43,7 +43,7 @@ You can use the app directly here: https://huggingface.co/spaces/Logan1107/Proje
 
 Testing and Verifying
 
-I tested the program with a mix of normal inputs and edge cases. It only accepts inputs that match the format I set, so anything outside that gets blocked right away. If you try to leave something empty, it throws an error instead of running. Negative numbers gave wrong results at first and really large inputs slowed things down, but I fixed that by adding proper checks and cleaning up how the program handles mistakes. I saved a few example runs to show the errors I got and how everything works now after the fixes.
+I tested the program with a mix of normal inputs and edge cases. It only accepts inputs that match the format I set, so anything outside that gets blocked right away. If you try to leave something empty, it throws an error instead of running. Negative numbers gave wrong results at first and really large inputs slowed things down, but I fixed that by adding proper checks and cleaning up how the program handles mistakes. 
 
 Author and Acknowledgment
 
